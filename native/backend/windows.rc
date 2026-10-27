@@ -1,0 +1,4 @@
+1 24 "../../frontends/windows/app.manifest"
+#define CAB_FILE_DESCRIPTION "Native C++ preset backend"
+#define CAB_ORIGINAL_FILENAME "CabBackend.exe"
+#include "../../frontends/windows/version.rcinc"

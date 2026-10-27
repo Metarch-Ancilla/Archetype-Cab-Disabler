@@ -1,0 +1,6 @@
+1 24 "app.manifest"
+102 RCDATA "../../licenses/windows-LICENSES.txt"
+101 ICON "../../assets/cab-disabled.ico"
+#define CAB_FILE_DESCRIPTION "Archetype Cab Disabler"
+#define CAB_ORIGINAL_FILENAME "Archetype Cab Disabler.exe"
+#include "version.rcinc"

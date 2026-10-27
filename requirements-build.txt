@@ -1,0 +1,2 @@
+# Host build tooling only; nothing from pip is bundled in the application.
+macholib==1.16.3
